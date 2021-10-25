@@ -1,7 +1,7 @@
-# This project is about find the pokemon you want to use it, even if you understand nothing about it.
+# 👨‍💻 One afternoon react project using an API to find pokemons.
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
